@@ -1,0 +1,1 @@
+{"version":"5.0.0","name":"gatsby","dependencies":{"@emotion/react":{"version":"11.9.3"},"@emotion/server":{"version":"11.4.0"},"@emotion/styled":{"version":"11.9.3"},"@mui/material":{"version":"5.8.5"},"gatsby-plugin-react-helmet":{"version":"5.17.0"},"gatsby":{"version":"4.17.1"},"react-dom":{"version":"18.2.0"},"react-helmet":{"version":"6.1.0"},"react":{"version":"18.2.0"}}}
